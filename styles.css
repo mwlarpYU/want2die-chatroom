@@ -46,7 +46,7 @@ body {
 .message.system {
     text-align: center;
     color: #888;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     margin: 0 auto; /* 置中 SYSTEM */
 }
 
