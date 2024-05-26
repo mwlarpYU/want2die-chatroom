@@ -8,7 +8,7 @@ const messages = [
     { type: "other", text: "NPC3：歡迎歡迎" },
     { type: "other", text: "NPC4：歡迎新人~~" },
     { type: "system", text: "Nobody 退出群組" },
-    { type: "system", text: "NPC5 加入群組" },
+    { type: "system", text: "NPC6 加入群組" },
     { type: "other", text: "NPC5：大家好啊！" },
     { type: "other", text: "NPC5：今天的話題好深刻啊" },
     { type: "user", text: "是啊，我們來討論人生哲理和生死觀吧" },
