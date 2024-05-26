@@ -53,7 +53,7 @@ body {
 .message.user {
     background-color: #d1e7ff;
     align-self: flex-end; /* USER 在右邊 */
-    text-align: right;
+    text-align: left;
     margin-left: auto; 
 }
 
