@@ -45,7 +45,7 @@ const messages = [
             index++;
 
             // 計算下一條訊息的顯示時間，2到10秒之間隨機
-            const nextInterval = Math.random() * (5000 - 2000) + 2000;
+            const nextInterval = Math.random() * (3000 - 1000) + 1000;
             setTimeout(displayNextMessage, nextInterval);
         }
     }
