@@ -30,8 +30,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		{ type: "user", text: "謝謝大家，這次的討論很有意義，讓我們更加珍惜眼前的一切" },
 		{ type: "other", text: "NPC5：期待下次的討論，大家晚安！" },
 		{ type: "other", text: "NPC2：" },
-        { type: "other", image: "https://stickershop.line-scdn.net/stickershop/v1/product/7028/LINEStorePC/main.png" }, // 圖片訊息
-        { type: "user", voice: "https://od.lk/s/OTlfNDc4MTcxODVf/HBD_JAZZ.mp3" }    // 語音訊息
+	        { type: "other", image: "https://stickershop.line-scdn.net/stickershop/v1/product/7028/LINEStorePC/main.png" }, // 圖片訊息
+	       	{ type: "user", voice: "https://od.lk/s/OTlfNDc4MTcxODVf/HBD_JAZZ.mp3" }    // 語音訊息
     ];
 
     let index = 0;
